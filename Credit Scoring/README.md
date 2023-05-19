@@ -1,4 +1,4 @@
-# Project Title: Loan Borrowers' Creditworthiness/Credit Scorring Analysis
+# Loan Borrowers' Creditworthiness/Credit Scorring Analysis
 
 ## Stack Used:
 
