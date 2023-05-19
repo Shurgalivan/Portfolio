@@ -20,4 +20,4 @@ The analysis of loan borrowers' creditworthiness revealed the following insights
 - There is no clear association between income level and the likelihood of timely loan repayment.
 - The purpose of the loan has an impact on loan repayment, with car loans and loans for education exhibiting a higher proportion of clients with overdue payments, while mortgages appear to be the least risky category with a lower proportion of problematic clients.
 
-For detailed analysis and code implementation, please refer to the Jupyter Notebook provided in this repository.
+For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Credit%20Scoring/credit_scorring_research2.ipynb) provided in this repository.
