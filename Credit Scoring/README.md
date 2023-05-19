@@ -1,4 +1,4 @@
-# Loan Borrowers' Creditworthiness/Credit Scorring Analysis
+# Loan Borrowers' Creditworthiness/Credit Scoring Analysis
 
 ## Stack Used:
 
