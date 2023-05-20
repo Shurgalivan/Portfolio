@@ -17,4 +17,4 @@ This research project aimed to determine the market value of real estate propert
 - Sale Duration: The research showed that the average time it took to sell a property was relatively long, and selling a property within 90 days was considered a success. However, it should be noted that the removal of an advertisement from a platform does not necessarily indicate a successful sale, as there could be various reasons for the removal.
 - Limitations: The research acknowledges the limitations of relying on user-entered data and the validity of conclusions drawn from the dataset. The accuracy and reliability of the user-entered information can vary, and the analysis considered correlations between parameters in isolation, rather than considering their combined effects.
 
-For detailed analysis and code implementation, please refer to the Jupyter Notebook provided in this repository.
+For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Real%20Estate%20SPb/real_estate_market_research.ipynb) provided in this repository.
