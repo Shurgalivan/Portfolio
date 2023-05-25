@@ -20,4 +20,4 @@ Based on the hypothesis testing conducted, we can draw the following conclusions
 
 - However, regarding the hypothesis testing on revenue between users from Moscow and users from other cities, we fail to reject the null hypothesis. This suggests that there is not enough evidence to support the claim that users from Moscow generate significantly more revenue than users from other cities.
 
-For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/tree/main/Cell%20Plan%20Selection) provided in this repository.
+For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Cell%20Plan%20Selection/Cell_plan_selection_1.ipynb) provided in this repository.
