@@ -1,4 +1,4 @@
-# Real estate market research: a study of apartment sales advertisements
+# Cell Plan Recomendation Research
 
 ## Stack Used:
 
@@ -17,8 +17,8 @@ In the study, we will construct a model with the maximum possible accuracy value
 
 Based on the hypothesis testing conducted, we can draw the following conclusions:
 
-- - The best-performing model was the Random Forest with hyperparameters 'n_estimators' (number of trees) set to 12 and 'max_depth' set to 6.
+- The best-performing model was the Random Forest with hyperparameters 'n_estimators' (number of trees) set to 12 and 'max_depth' set to 6.
 - The best model was evaluated on the validation dataset and achieved an accuracy of over 0.79.
 - The model successfully passed the adequacy check, indicating that it outperformed a baseline model and demonstrated meaningful patterns in the data.
 
-For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Cell%20Plan%20Selection/Cell_plan_selection_1.ipynb) provided in this repository.
+For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Cell%20Plan%20Recommendation/cell_plan_rec.ipynb) provided in this repository.
