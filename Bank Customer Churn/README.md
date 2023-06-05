@@ -25,4 +25,4 @@ The selected model demonstrated excellent performance on the test dataset, achie
 The precision and recall metrics exhibited a balanced trade-off, indicating a reliable prediction of both positive and negative churn instances.
 Overall, this project highlights the importance of handling class imbalance and utilizing appropriate techniques to improve the predictive performance of customer churn models. The insights gained from this project can aid Beta Bank in identifying customers at risk of churn, enabling proactive measures to retain them.
 
-For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Cell%20Plan%20Selection/Cell_plan_selection_1.ipynb) provided in this repository.
+For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Bank%20Customer%20Churn/beta_bank_cust_churn.ipynb) provided in this repository.
