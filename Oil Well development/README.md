@@ -16,4 +16,4 @@ The key findings of the project include:
 - However, the second region had a higher average profit despite having a higher risk coefficient.
 - Expert assessment by geologists is recommended to validate the findings and provide additional insights.
 
-For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Oil%Well%development/oil_drilling_provinces.ipynb) provided in this repository.
+For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Oil%20Well%20development/oil_drilling_provinces.ipynb) provided in this repository.
