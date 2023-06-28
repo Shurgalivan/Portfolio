@@ -12,5 +12,8 @@ This repository provides selected works completed during my training in the Data
 | [Cell plan recommedation](https://github.com/Shurgalivan/Portfolio/tree/main/Cell%20Plan%20Recommendationn) |  Create ML model of a cell plan recommendation | Python, Pandas, Mathplotlib, Seaborn, Scipy, Scikitlearn | 
 | [Customer Churn Prediction in Beta Bank](https://github.com/Shurgalivan/Portfolio/tree/main/Bank%20Customer%20Churn) |  Create ML model of a customer churn prediction | Python, Pandas, Mathplotlib, Seaborn, Scipy, Scikitlearn | 
 | [Oil Well Development Analysis](https://github.com/Shurgalivan/Portfolio/tree/main/Oil%20Well%20development) |  Create ML model of a oil well development | Python, Pandas, Mathplotlib, Seaborn, Scipy, Scikitlearn | 
+| [Gold Recovery from Ore](https://github.com/Shurgalivan/Portfolio/tree/main/Gold%20Recovery) |  Create ML model of a Gold Recovery Prediction | Python, Pandas, Mathplotlib, Seaborn, Scipy, Scikitlearn | 
+
+
 
 
