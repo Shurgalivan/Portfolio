@@ -23,4 +23,4 @@ The objective of this project is to develop a data encryption algorithm for prot
 - The implemented algorithm fully meets the objectives set for the project, ensuring the protection of client data while maintaining the quality of machine learning models.
 
 
-For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Bank%20Customer%20Churn/beta_bank_cust_churn.ipynb) provided in this repository.
+For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Clients%20Data%20Protection/clients_data_protection.ipynb) provided in this repository.
