@@ -20,4 +20,4 @@ This project aims to develop a model for determining the market value of used ca
 - The preprocessing steps, including feature selection, missing value handling, and encoding, contributed to improved model performance.
 
 
-For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Clients%20Data%20Protection/clients_data_protection.ipynb) provided in this repository.
+For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Car%20price%20prediction/car_price_model.ipynb) provided in this repository.
