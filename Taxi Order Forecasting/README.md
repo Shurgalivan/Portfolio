@@ -18,4 +18,4 @@ This project focuses on forecasting taxi orders for "Best Taxi" using historical
 
 These findings can be used by "Best Taxi" to effectively allocate drivers during peak hours and improve customer satisfaction. By leveraging the predictive model, the company can anticipate the demand for taxis and optimize its operations accordingly.
 
-For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Car%20price%20prediction/car_price_model.ipynb) provided in this repository.
+For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Taxi%20Order%20Forecasting/orders_taxi_prediction.ipynb) provided in this repository.
