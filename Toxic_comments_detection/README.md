@@ -25,4 +25,4 @@ Training DistilBERT on a reduced dataset (5000 rows) likely impacted its ability
  
 By implementing this sentiment analysis system, "WikiShop" can enhance its user experience by fostering a positive and constructive environment for content creation and engagement.
 
-For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Video%20Games%20Research/video_games_market.ipynb) provided in this repository.
+For detailed analysis and code implementation, please refer to the [Jupyter Notebook](https://github.com/Shurgalivan/Portfolio/blob/main/Toxic_comments_detection/toxic_comments_detection.ipynb) provided in this repository.
