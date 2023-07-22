@@ -13,7 +13,8 @@ This repository provides selected works completed during my training in the Data
 | [Customer Churn Prediction in Beta Bank](https://github.com/Shurgalivan/Portfolio/tree/main/Bank%20Customer%20Churn) |  Create ML model of a customer churn prediction | Python, Pandas, Mathplotlib, Seaborn, Scipy, Scikitlearn | 
 | [Oil Well Development Analysis](https://github.com/Shurgalivan/Portfolio/tree/main/Oil%20Well%20development) |  Create ML model of a oil well development | Python, Pandas, Mathplotlib, Seaborn, Scipy, Scikitlearn | 
 | [Gold Recovery from Ore](https://github.com/Shurgalivan/Portfolio/tree/main/Gold%20Recovery) |  Create ML model of a Gold Recovery Prediction | Python, Pandas, Mathplotlib, Seaborn, Scipy, Scikitlearn | 
-
-
+| [Clients Data Protection](https://github.com/Shurgalivan/Portfolio/tree/main/Clients%20Data%20Protection) |  Create ML model of a data anonymization | Python, Pandas, NumPy, Scikitlearn | 
+| [Taxi Order Prediction](https://github.com/Shurgalivan/Portfolio/tree/main/Taxi%20Order%20Forecasting) |  Create ML model of Prediction of taxi orders | Python, Pandas, NumPy, Scikitlearn |
+| [Sentiment Analysis for Wikishop](https://github.com/Shurgalivan/Portfolio/tree/main/Taxi%20Order%20Forecasting) |  Create ML povered system of sentiment classification for the online store | Python, Pandas, BERT, Scikitlearn |
 
 
