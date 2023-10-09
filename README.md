@@ -15,6 +15,6 @@ This repository provides selected works completed during my training in the Data
 | [Gold Recovery from Ore](https://github.com/Shurgalivan/Portfolio/tree/main/Gold%20Recovery) |  Create ML model of a Gold Recovery Prediction | Python, Pandas, Mathplotlib, Seaborn, Scipy, Scikitlearn | 
 | [Clients Data Protection](https://github.com/Shurgalivan/Portfolio/tree/main/Clients%20Data%20Protection) |  Create data anonymization ML model| Python, Pandas, NumPy, Scikitlearn | 
 | [Taxi Order Prediction](https://github.com/Shurgalivan/Portfolio/tree/main/Taxi%20Order%20Forecasting) |  Create ML model predicting taxi orders | Python, Pandas, NumPy, Scikitlearn |
-| [Sentiment Analysis for Wikishop](https://github.com/Shurgalivan/Portfolio/tree/main/Taxi%20Order%20Forecasting) |  Create ML povered system of sentiment classification for the online store | Python, Pandas, BERT, Scikitlearn |
+| [Sentiment Analysis for Wikishop](https://github.com/Shurgalivan/Portfolio/tree/main/Toxic_comments_detection) |  Create ML povered system of sentiment classification for the online store | Python, Pandas, BERT, Scikitlearn |
 
 
